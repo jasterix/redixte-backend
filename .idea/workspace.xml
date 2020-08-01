@@ -1,18 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a585ff13-520b-48e0-bb34-2f22cb8c1d29" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/test/java/com/example/demo/DemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/programming/techie/springredditclone/SpringRedditCloneApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/redixte/RedixteApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/programming/techie/springredditclone/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/redixte/controller/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/programming/techie/springredditclone/model/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/redixte/model/Comment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/programming/techie/springredditclone/model/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/redixte/model/Post.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/programming/techie/springredditclone/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/redixte/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/programming/techie/springredditclone/model/VerificationToken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/redixte/model/VerificationToken.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/programming/techie/springredditclone/model/Vote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/redixte/model/Vote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/programming/techie/springredditclone/model/VoteType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/redixte/model/VoteType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/programming/techie/springredditclone/SpringRedditCloneApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/programming/techie/springredditclone/RedixteApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,15 +47,33 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1fTOWywq0BBDzEyAn8b9EvBFV2H" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="compactDirectories" value="true" />
+    <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.webOptions" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/example" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/example/" />
+    </key>
+  </component>
+  <component name="StructuralSearchPlugin">
+    <replaceConfiguration name="user defined" created="1596241622089" text="com.programming.techie" recursive="false" caseInsensitive="true" type="JAVA" pattern_context="default" scope_type="NAMED" scope_descriptor="All Places" reformatAccordingToStyle="false" shortenFQN="false" replacement="com.example" history="1">
+      <constraint name="__context__" within="" contains="" />
+    </replaceConfiguration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -52,10 +88,44 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state width="927" height="508" key="#com.intellij.structuralsearch.plugin.ui.StructuralReplaceDialog" timestamp="1596241622057">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="927" height="508" key="#com.intellij.structuralsearch.plugin.ui.StructuralReplaceDialog/0.0.1440.900@0.0.1440.900" timestamp="1596241622057" />
+    <state x="395" y="184" key="#com.intellij.structuralsearch.plugin.ui.StructuralSearchDialog" timestamp="1596241622057">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="395" y="184" key="#com.intellij.structuralsearch.plugin.ui.StructuralSearchDialog/0.0.1440.900@0.0.1440.900" timestamp="1596241622057" />
     <state x="211" y="113" key="SettingsEditor" timestamp="1596239602177">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="211" y="113" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1596239602177" />
+    <state x="160" y="205" width="881" height="550" key="find.popup" timestamp="1596242658486">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="160" y="205" width="881" height="550" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1596242658486" />
+    <state x="311" y="345" key="scopes" timestamp="1596241879080">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="311" y="345" key="scopes/0.0.1440.900@0.0.1440.900" timestamp="1596241879080" />
+    <state x="118" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1596241853660">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="118" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1596241853660" />
   </component>
 </project>

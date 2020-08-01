@@ -1,4 +1,5 @@
-package com.programming.techie.springredditclone.model;
+package com.example.redixte.model;
+//package com.example.redixte.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

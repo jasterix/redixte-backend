@@ -1,13 +1,14 @@
-package com.programming.techie.springredditclone;
+package com.example.redixte;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringRedditCloneApplication {
+public class RedixteApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringRedditCloneApplication.class, args);
+		SpringApplication.run(RedixteApplication.class, args);
 	}
 
 }
+

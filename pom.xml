@@ -8,10 +8,10 @@
 		<version>2.1.8.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.programming.techie</groupId>
-	<artifactId>spring-reddit-clone</artifactId>
+	<groupId>com.example.redixte</groupId>
+	<artifactId>redixte</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-reddit-clone</name>
+	<name>redixte</name>
 	<description>Reddit Clone using Springboot</description>
 
 	<properties>

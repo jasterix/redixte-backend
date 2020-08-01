@@ -1,4 +1,4 @@
-package com.programming.techie.springredditclone.controller;
+package com.example.redixte.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
